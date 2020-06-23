@@ -7,7 +7,7 @@
 
 #### The data will be downloaded from the Internet. The datasets will contain the boroughs, neighbourhoods, coordinates information of Toronto, New York City, and Beijing.
 
-#### Methodology section which represents the main component of the report where you discuss and describe any exploratory data analysis that you did, any inferential statistical testing that you performed, if any, and what machine learnings were used and why.
-#### Results section where you discuss the results.
-#### Discussion section where you discuss any observations you noted and any recommendations you can make based on the results.
-#### Conclusion section where you conclude the report. 
+##### Methodology section which represents the main component of the report where you discuss and describe any exploratory data analysis that you did, any inferential statistical testing that you performed, if any, and what machine learnings were used and why.
+##### Results section where you discuss the results.
+##### Discussion section where you discuss any observations you noted and any recommendations you can make based on the results.
+##### Conclusion section where you conclude the report. 
